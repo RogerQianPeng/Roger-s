@@ -1,1 +1,292 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T02:49:08.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="hcrkLSRPuuvBwE7oXO-M" version="13.8.0" type="github"><diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-19T03:01:56.137Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="J7zPvqiA8Fg-NuU3heOw" version="13.8.0" type="github">
+  <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
+    <mxGraphModel dx="946" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-2" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="200" y="362.56" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="50" height="22.56" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="100" y="382.56" width="47.66" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-6" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-2" target="IQSiClCuCKLZ4wRSAv6x-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="442.56" as="sourcePoint" />
+            <mxPoint x="380" y="392.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-7" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-4" target="IQSiClCuCKLZ4wRSAv6x-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="442.56" as="sourcePoint" />
+            <mxPoint x="380" y="392.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-8" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="200" y="447.56" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-9" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="130" y="425" width="50" height="22.56" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-10" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="100" y="467.56" width="47.66" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-11" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-8" target="IQSiClCuCKLZ4wRSAv6x-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="527.56" as="sourcePoint" />
+            <mxPoint x="380" y="477.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-12" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-10" target="IQSiClCuCKLZ4wRSAv6x-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="527.56" as="sourcePoint" />
+            <mxPoint x="380" y="477.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-13" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="200" y="532.56" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-14" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="50" height="22.56" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-15" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="100" y="552.56" width="47.66" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-16" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-13" target="IQSiClCuCKLZ4wRSAv6x-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="612.56" as="sourcePoint" />
+            <mxPoint x="380" y="562.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-17" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-15" target="IQSiClCuCKLZ4wRSAv6x-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="612.56" as="sourcePoint" />
+            <mxPoint x="380" y="562.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-18" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="200" y="612.56" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-19" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="130" y="590" width="50" height="22.56" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-20" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="100" y="632.56" width="47.66" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-21" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-18" target="IQSiClCuCKLZ4wRSAv6x-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="692.56" as="sourcePoint" />
+            <mxPoint x="380" y="642.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-22" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-20" target="IQSiClCuCKLZ4wRSAv6x-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="692.56" as="sourcePoint" />
+            <mxPoint x="380" y="642.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-23" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;" vertex="1" parent="1">
+          <mxGeometry x="370" y="425" width="55" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-24" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;" vertex="1" parent="1">
+          <mxGeometry x="370" y="553" width="55" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-25" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-23" target="IQSiClCuCKLZ4wRSAv6x-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="540" as="sourcePoint" />
+            <mxPoint x="380" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-26" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-24" target="IQSiClCuCKLZ4wRSAv6x-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="540" as="sourcePoint" />
+            <mxPoint x="380" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-27" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-23" target="IQSiClCuCKLZ4wRSAv6x-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="540" as="sourcePoint" />
+            <mxPoint x="380" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-28" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-24" target="IQSiClCuCKLZ4wRSAv6x-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="540" as="sourcePoint" />
+            <mxPoint x="380" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-29" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-13" target="IQSiClCuCKLZ4wRSAv6x-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-30" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-13" target="IQSiClCuCKLZ4wRSAv6x-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="540" as="sourcePoint" />
+            <mxPoint x="380" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-31" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-18" target="IQSiClCuCKLZ4wRSAv6x-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="540" as="sourcePoint" />
+            <mxPoint x="380" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-32" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="352" y="322" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-33" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cache_server;" vertex="1" parent="1">
+          <mxGeometry x="281" y="220" width="34.59" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-34" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="42.23" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-35" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="42.7" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-36" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.smtp_server;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="41.31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-38" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-32" target="IQSiClCuCKLZ4wRSAv6x-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="330" as="sourcePoint" />
+            <mxPoint x="330" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-39" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-32" target="IQSiClCuCKLZ4wRSAv6x-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="480" as="sourcePoint" />
+            <mxPoint x="380" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-40" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-32" target="IQSiClCuCKLZ4wRSAv6x-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387.10223484848484" y="332" as="sourcePoint" />
+            <mxPoint x="325.5899999999999" y="270.9227094930044" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-41" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-32" target="IQSiClCuCKLZ4wRSAv6x-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415.0794117647058" y="332" as="sourcePoint" />
+            <mxPoint x="432.82058823529405" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-42" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-23" target="IQSiClCuCKLZ4wRSAv6x-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="430" as="sourcePoint" />
+            <mxPoint x="530" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-44" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;width=5;endSize=6.17;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-24" target="IQSiClCuCKLZ4wRSAv6x-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="540" as="sourcePoint" />
+            <mxPoint x="530" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-45" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;" vertex="1" parent="1">
+          <mxGeometry x="475" y="533" width="75" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-46" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="1">
+          <mxGeometry x="630" y="592" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-47" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" vertex="1" parent="1">
+          <mxGeometry x="628.35" y="491.5" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-48" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cache_server;" vertex="1" parent="1">
+          <mxGeometry x="557.35" y="389.5" width="34.59" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-49" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
+          <mxGeometry x="616.35" y="389.5" width="42.23" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-50" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;" vertex="1" parent="1">
+          <mxGeometry x="686.35" y="389.5" width="42.7" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-51" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.smtp_server;" vertex="1" parent="1">
+          <mxGeometry x="756.35" y="389.5" width="41.31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-52" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-47" target="IQSiClCuCKLZ4wRSAv6x-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="576.35" y="499.5" as="sourcePoint" />
+            <mxPoint x="606.35" y="439.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-53" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-47" target="IQSiClCuCKLZ4wRSAv6x-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="606.35" y="649.5" as="sourcePoint" />
+            <mxPoint x="656.35" y="599.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-54" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-47" target="IQSiClCuCKLZ4wRSAv6x-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="663.4522348484849" y="501.5" as="sourcePoint" />
+            <mxPoint x="601.9399999999999" y="440.4227094930044" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-55" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-47" target="IQSiClCuCKLZ4wRSAv6x-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="691.4294117647058" y="501.5" as="sourcePoint" />
+            <mxPoint x="709.1705882352941" y="449.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-56" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-45" target="IQSiClCuCKLZ4wRSAv6x-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="480" as="sourcePoint" />
+            <mxPoint x="380" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-57" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-45" target="IQSiClCuCKLZ4wRSAv6x-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485" y="586.8097826086957" as="sourcePoint" />
+            <mxPoint x="435" y="583.2228260869565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-58" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-45" target="IQSiClCuCKLZ4wRSAv6x-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="599.3863636363637" as="sourcePoint" />
+            <mxPoint x="640" y="620.4772727272727" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-59" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.ip_phone;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="35.15" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-60" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" vertex="1" parent="1">
+          <mxGeometry x="59.75" y="340" width="30.25" height="22.56" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-61" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.ip_phone;" vertex="1" parent="1">
+          <mxGeometry x="40" y="372.5" width="35.15" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-62" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="401.97" width="30.25" height="22.56" as="geometry" />
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-63" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-3" target="IQSiClCuCKLZ4wRSAv6x-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="480" as="sourcePoint" />
+            <mxPoint x="380" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-64" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-3" target="IQSiClCuCKLZ4wRSAv6x-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="351" as="sourcePoint" />
+            <mxPoint x="129.87251372788296" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-65" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-4" target="IQSiClCuCKLZ4wRSAv6x-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="158.68047589993898" y="360" as="sourcePoint" />
+            <mxPoint x="139.87251372788296" y="347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQSiClCuCKLZ4wRSAv6x-66" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="IQSiClCuCKLZ4wRSAv6x-4" target="IQSiClCuCKLZ4wRSAv6x-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="168.68047589993898" y="370" as="sourcePoint" />
+            <mxPoint x="149.87251372788296" y="357" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
