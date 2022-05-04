@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T03:22:37.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.5.0" etag="yz8ONoOXtS_TDPDQu-G8" type="github"><diagram id="xymFPKdwMAsWKoXTowV9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-04T06:12:35.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fwDjLY26d5zkBx1vjBan" version="17.5.0" type="github">
+  <diagram id="xymFPKdwMAsWKoXTowV9" name="Page-1">
+    <mxGraphModel dx="1491" dy="883" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbIY8enpqSfV5GTYW9Xm-1" target="cbIY8enpqSfV5GTYW9Xm-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="442" y="315" />
+              <mxPoint x="337" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbIY8enpqSfV5GTYW9Xm-1" target="cbIY8enpqSfV5GTYW9Xm-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="442" y="315" />
+              <mxPoint x="527" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbIY8enpqSfV5GTYW9Xm-1" target="cbIY8enpqSfV5GTYW9Xm-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="442" y="315" />
+              <mxPoint x="717" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbIY8enpqSfV5GTYW9Xm-1" target="cbIY8enpqSfV5GTYW9Xm-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="442" y="315" />
+              <mxPoint x="167" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-1" value="地震数据可视化分析系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="235" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-2" value="文件管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbIY8enpqSfV5GTYW9Xm-3" target="cbIY8enpqSfV5GTYW9Xm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbIY8enpqSfV5GTYW9Xm-3" target="cbIY8enpqSfV5GTYW9Xm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-3" value="地震震例对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbIY8enpqSfV5GTYW9Xm-4" target="cbIY8enpqSfV5GTYW9Xm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbIY8enpqSfV5GTYW9Xm-4" target="cbIY8enpqSfV5GTYW9Xm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-4" value="地震频度对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbIY8enpqSfV5GTYW9Xm-5" target="cbIY8enpqSfV5GTYW9Xm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbIY8enpqSfV5GTYW9Xm-5" target="cbIY8enpqSfV5GTYW9Xm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-5" value="地震平静对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-6" value="数据选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="472" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-7" value="图表分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="472" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-8" value="数据选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="472" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-9" value="图表分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="472" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-10" value="数据选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="472" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cbIY8enpqSfV5GTYW9Xm-11" value="图表分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="472" width="80" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
